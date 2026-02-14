@@ -1,3 +1,4 @@
 # belajar kolaborasi
 Belajar GitHub di Dicoding sangat seru </br>
-Banyak yang harus dikerjakan tapi seru
+Banyak yang harus dikerjakan tapi seru </br>
+*kalian harus mencobanya !!!!*
